@@ -1,19 +1,9 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+layout_spectrum: 1
+typography_spectrum: 0.7883642
 color:
   saturation: 0.2004887
-  brandStrength: 1
   lightness: 0.845609
+  brandStrength: 0.5354131
   brandColors:
     - '#DFAB01'
     - '#CDCFC5'
@@ -21,6 +11,4 @@ color:
     - '#879288'
     - '#D8CD53'
   rhythmicContrast: 0.01825258
-typography_spectrum: 0.7883642
-layout_spectrum: 1
 name: N-finity Test
