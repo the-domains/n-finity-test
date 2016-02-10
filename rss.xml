@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[N-finity Test]]></title>
         <description><![CDATA[N-finity Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/n-finity-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 16:58:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 16:59:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/n-finity-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fdb6e4a-e133-48cf-b969-c3dcbc55060e.png">]]></description>
+            <link>https://thegrid.ai/n-finity-test/f8a3fbf6-d797-478d-805c-1843155bfb79/index.html</link>
+            <guid isPermaLink="false">f8a3fbf6-d797-478d-805c-1843155bfb79</guid>
+            <pubDate>Wed, 10 Feb 2016 16:55:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cbfea75-82eb-496c-b655-f2d36823dc5e.png">]]></description>
-            <link>undefined191e831d-697e-4833-be36-e460c7f83c13/index.html</link>
+            <link>https://thegrid.ai/n-finity-test/191e831d-697e-4833-be36-e460c7f83c13/index.html</link>
             <guid isPermaLink="false">191e831d-697e-4833-be36-e460c7f83c13</guid>
             <pubDate>Wed, 10 Feb 2016 16:55:32 GMT</pubDate>
         </item>
