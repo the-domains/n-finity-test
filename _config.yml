@@ -35,6 +35,6 @@ color:
     - '#dcc988'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
